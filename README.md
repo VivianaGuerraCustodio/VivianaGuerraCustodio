@@ -5,9 +5,9 @@
 <p align="center"><img src="https://github.com/VivianaGuerraCustodio/LIM012-card-validation/blob/master/src/lab(1).jpg"></p>
 <p align="center">  ✨ ✨ ✨ ✨ ✨ </p>
 <p align="center"> <em>🌱 Aprendiz de por vida 🌱</em> </p>
-<p align="center"> <em> Mamá super empoderada  💪🏾</em> </p>
+<p align="center"> <em>💪🏾 Mamá super empoderada 💪🏾</em> </p>
 <p align="center"> <em> ⚡ Blockchain lover ⚡ </em> </p>
-
+<p align="center">  ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ </p>
 
 <!--
 **VivianaGuerraCustodio/VivianaGuerraCustodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
