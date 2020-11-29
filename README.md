@@ -1,7 +1,7 @@
 <p align="center">  ✨ ✨ ✨ ✨ ✨ </p>
 <h3 align="center"> 💫 Front End Developer Jr. 👩‍💻 </h3>
 <p align="center"> <img src="https://github.com/VivianaGuerraCustodio/LIM012-card-validation/blob/master/src/Banner.jpg"> </p>
-<h4 align="center">  Talento Laboratorian </h4>
+<h4 align="center"><a href="https://www.canva.com/design/DAEMyq4Kw2I/87Um_qOzMJ_f9tCgY2H8Mw/view?utm_content=DAEMyq4Kw2I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1" > Talento Laboratorian </a> </h4>
 <p align="center"><img src="https://github.com/VivianaGuerraCustodio/LIM012-card-validation/blob/master/src/lab(1).jpg"></p>
 <p align="center">  ✨ ✨ ✨ ✨ ✨ </p>
 <p align="center"> <em>🌱 Aprendiz de por vida 🌱</em> </p>
